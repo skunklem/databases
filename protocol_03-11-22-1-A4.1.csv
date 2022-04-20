@@ -1,0 +1,2 @@
+protocol_id,sequencing_tech,assembly_method
+11,Oxford Nanopore PromethION,ARTIC Medaka pipeline
